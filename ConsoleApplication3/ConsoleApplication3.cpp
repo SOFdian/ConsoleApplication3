@@ -12,4 +12,5 @@
 //    int i = 42;
 //    reset(&i);
 //    cout <<  i << endl; // Êä³öi=0
+//    cout << ++(i++) << endl;
 //}

@@ -156,6 +156,9 @@
     <ClCompile Include="17this指针.cpp" />
     <ClCompile Include="20成员函数友元.cpp" />
     <ClCompile Include="21运算符重载.cpp" />
+    <ClCompile Include="22左移运算符重载.cpp" />
+    <ClCompile Include="23递增运算符重载.cpp" />
+    <ClCompile Include="24递减运算符.cpp" />
     <ClCompile Include="ConsoleApplication3.cpp" />
     <ClCompile Include="06引用做函数返回值.cpp" />
     <ClCompile Include="13深浅拷贝.cpp" />
