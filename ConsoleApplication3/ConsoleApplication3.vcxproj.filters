@@ -102,6 +102,12 @@
     <ClCompile Include="默认参数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="27继承中的构造和析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28同名成员处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">

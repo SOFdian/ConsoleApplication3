@@ -5,7 +5,7 @@
 //	int age;
 //	static int name;
 //};
-//int Person::name = 100;
+//int Person::name = 100;//类内声明，类外初始化
 //int main() {
 //	Person p;
 //	cout << Person::name;
