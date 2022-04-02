@@ -32,7 +32,7 @@
 //	Person p1(18, 180);
 //	cout << *p1.m_height;
 //	Person p2(p1);
-//	cout << *p2.m_height;
+//	cout << *p1.m_height;
 //
 //
 //}

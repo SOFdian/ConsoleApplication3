@@ -28,7 +28,7 @@
 //
 //int main() {
 //	MyInt mi;
-//	cout << mi++ << endl;
-//	cout << ++mi << endl;
+//	cout << (mi++)++ << endl;
+//	cout << ++(++mi) << endl;
 //	cout << mi << endl;
 //}
