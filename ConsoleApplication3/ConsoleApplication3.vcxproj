@@ -24,6 +24,7 @@
     <ProjectGuid>{a3f1dc58-e261-4c5b-aef6-4afb3e7df886}</ProjectGuid>
     <RootNamespace>ConsoleApplication3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>C++学习</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -167,6 +168,7 @@
     <ClCompile Include="19全局函数做友元.cpp" />
     <ClCompile Include="指针相关.cpp" />
     <ClCompile Include="18类做友元.cpp" />
+    <ClCompile Include="默认参数.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h" />
