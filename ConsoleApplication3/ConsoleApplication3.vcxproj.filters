@@ -108,6 +108,15 @@
     <ClCompile Include="28同名成员处理.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="29动态多态.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30多态案例—计算器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
