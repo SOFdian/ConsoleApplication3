@@ -117,6 +117,9 @@
     <ClCompile Include="31纯虚函数和抽象类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="32多态案例泡咖啡.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
