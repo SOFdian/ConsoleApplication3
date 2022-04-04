@@ -120,6 +120,15 @@
     <ClCompile Include="32多态案例泡咖啡.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="33虚析构和纯虚析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34电脑组装案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35写文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
